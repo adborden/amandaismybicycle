@@ -1,6 +1,6 @@
 
 body {
-font-family: 'Patua One',Georgia,serif;
+font-family: 'Lobster Two',cursive,serif;
 font-size: 72px;
 padding: 50px;
 text-align: left;
@@ -9,5 +9,6 @@ color: #A0D7C7;
 }
 
 .intro {
-font-family: 'Lobster Two',Georgia,serif;
-font-size: 72px;
+font-family: 'Patua One',Georgia,serif;
+font-size: 48px;
+}
