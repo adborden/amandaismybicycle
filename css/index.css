@@ -1,14 +1,17 @@
 
 body {
-font-family: 'Lobster Two',cursive,serif;
-font-size: 72px;
-padding: 50px;
-text-align: left;
 background-color: #240F2D;
 color: #A0D7C7;
+font-family: 'Lobster Two',cursive,serif;
+font-size: 72px;
+font-style: italic
+font-weight: 400;
+padding: 50px;
+text-align: left;
 }
 
 .intro {
 font-family: 'Patua One',Georgia,serif;
 font-size: 48px;
+font-weight: bold;
 }
