@@ -1,9 +1,9 @@
 var PHRASES = [
 
-  'is my new bicycle',
-  'picked you up at the airport',
-  'told me to tell you hello',
-  'thinks you are cute',
-  'bookmarked your website'
+  'Make the neighbors jump.',
+  'Lick yourself today.',
+  'Your mom told me to tell you hello.',
+  'They think you are cute.',
+  'Bookmark your website.'
 
 ];
